@@ -1,8 +1,4 @@
 # celeb_1
-Here’s a neat and clear **README.md** file you can include for your project. It'll help anyone (even future-you 😎) understand what your code does, how it works, and how to use it:
-
----
-
 # 🧠 Celebrity Image Classifier & Predictor
 
 A simple CNN-based image classifier built using TensorFlow and deployed via Streamlit. This app lets you train a model on a custom dataset of sports celebrities and then predict the celebrity in an uploaded image.
@@ -122,6 +118,3 @@ After training, you'll see:
 
 Made with ❤️ by Prason
 
----
-
-If you want this README written in Nepali, markdown style with emojis, or customized for GitHub with a badge or two, just say the word 😉
